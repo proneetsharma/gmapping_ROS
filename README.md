@@ -32,3 +32,6 @@ $ source devel/setup.zsh
 ```sh
 $ ./launch.sh 
 ```
+Now, see Gazebo and rviz launching.
+
+In the terminal, use teleop operation and drive the robot around. It will create a map of the environment in Rviz! 
